@@ -14,12 +14,12 @@ I build secure, observable backend systems. Right now I'm a Software Development
 
 ### 🛠 Tech Stack
 
-**Languages:** Python · JavaScript · SQL · C++
-**Backend:** Django · Django REST Framework · Celery · REST APIs · JWT · RabbitMQ
-**Data:** PostgreSQL · MongoDB · Redis
-**Frontend:** React · Redux · Ant Design · Vite
-**Monitoring:** Grafana · Loki · Prometheus · GitLab CI
-**ML:** Scikit-learn · Pandas · NumPy · OpenAI Whisper
+- **Languages:** Python · JavaScript · SQL · C++
+- **Backend:** Django · Django REST Framework · Celery · REST APIs · JWT · RabbitMQ
+- **Data:** PostgreSQL · MongoDB · Redis
+- **Frontend:** React · Redux · Ant Design · Vite
+- **Monitoring:** Grafana · Loki · Prometheus · GitLab CI
+- **ML:** Scikit-learn · Pandas · NumPy · OpenAI Whisper
 
 ---
 
@@ -31,7 +31,7 @@ I build secure, observable backend systems. Right now I'm a Software Development
 | [**Fraud Detection System**](https://github.com/bardawalram/Fraud-detection) | ML pipeline on 100K+ transactions with class-imbalance handling; 96.67% accuracy, with live predictions in Streamlit | Python, Scikit-learn, Streamlit |
 | [**Finance Dashboard Backend**](https://github.com/bardawalram/zorvyn-finance-backend) | REST API with JWT auth, role-based access, financial records and dashboard summaries | Django, DRF, SimpleJWT |
 | [**Redrob Ranker**](https://github.com/bardawalram/redrob-ranker) | Explainable 3-stage ranker that picks the top 100 of 100,000 candidates in about 20 s | Python |
-| [**Algorithm Visualizer**](https://github.com/bardawalram/Algorithm-Visualizer) | Step-by-step visualisation of sorting and searching algorithms, used by 100+ students | JavaScript, HTML, CSS |
+| [**Algorithm Visualizer**](https://github.com/bardawalram/Algorithm-Visualizer) | Step-by-step visualisation of sorting and searching algorithms | JavaScript, HTML, CSS |
 
 ---
 
