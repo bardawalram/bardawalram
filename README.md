@@ -1,6 +1,6 @@
 # Hi, I'm Bardawal Parshuram 👋
 
-**Software Engineer (SDE-1)** · Backend-focused · Python · Django · React · Bengaluru, India
+**Software Engineer (SDE-1)** · Backend-focused · Python · Django · React · Hyderabad, India
 
 I build secure, observable backend systems. Right now I'm a Software Development Engineer at **K12 Techno Services (Orchids International School)**, working on the ERP, CRM and HRMS platform used across a 340-branch school network.
 
